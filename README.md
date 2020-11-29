@@ -15,3 +15,6 @@ Applying ML Classification algorithms on the data set and getting inferences fro
 8. Write a complete report as a Google doc with needed plots, charts, bar graphs, pie charts and so on and submit it. Report should also contain the description about the data set, preprocessing done - why, how and what, analysis done / ML classification done, for analysis what is the purpose of doing, for ML why specific algorithms / packages were used, what is the output, what are you inferences from the output, what are your questions about the data? what are questions addressed by your analysis and so on.
 9. Report should also contain all the details, like, from where you collected the dataset, how many rows and columns are there, what are the features, why we do such and such preprocessing and after preprocessing what is changed in the dataset, what are your basic questions about your data, how you are going to address those questions through an analysis (give this with substantiation about why you use such analysis).
 10. Report should contain all the codes written by you and in addition to that it should list out the inferences you made through the analysis and how this answers your questions about the dataset.
+
+## Dataset
+We decided to work with the MAGIC Gamma Telescope Dataset: http://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
